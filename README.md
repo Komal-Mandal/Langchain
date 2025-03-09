@@ -6,8 +6,7 @@ LangChain is an open-source framework that helps developers build powerful appli
 
 # 🛠 Understanding the Process (Step by Step)
 
-https://media.geeksforgeeks.org/wp-content/uploads/20250206160413810371/Langchain-pipeline_.webp
-
+![langchain](https://github.com/user-attachments/assets/9fa5a218-a3ac-4d9e-849d-63f0cce61490)
 
 # 📂 1. Ingesting PDFs (Extracting Information)
 
